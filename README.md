@@ -1,2 +1,2 @@
 # ReadFileOnline
-Simple Extension Chrome for read file
+Simple  Chrome Extension for read file.
