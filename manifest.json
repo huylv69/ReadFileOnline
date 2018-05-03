@@ -16,13 +16,13 @@
   },
   "browser_action": {
     "default_icon": "assets/review-icon.png",
-    "default_popup": "background.html" 
+    "default_popup": "popup.html" 
   },
   "background": {
     "page": "background.html"
   },
   "options_ui": {
-    "page": "background.html",
+    "page": "popup.html",
     "open_in_tab": true
   }
 }
